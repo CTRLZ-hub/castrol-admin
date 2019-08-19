@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "status_message": "event found",
+  "data": [
+    {
+      "tallerid": 1,
+      "tallernombre": "Taller Pancho",
+      "litros": "litros?",
+      "tamanio": "Tamaño?",
+      "status": 1,
+      "turno": "tarde",
+      "horacita": null,
+      "direccion": "Av Cabildo 2020",
+      "confirmado": 0,
+      "diapreferido": "2019-08-14"
+    },
+    {
+      "tallerid": 2,
+      "tallernombre": "Taller Pepe",
+      "litros": "litros?",
+      "tamanio": "Tamaño?",
+      "status": 2,
+      "turno": "tarde",
+      "horacita": "02:45",
+      "direccion": "Av Cabildo 3000",
+      "confirmado": 2,
+      "diapreferido": "2019-08-15"
+    },
+    {
+      "tallerid": 3,
+      "tallernombre": "Taller Jorge",
+      "litros": "litros?",
+      "tamanio": "Tamaño?",
+      "status": 3,
+      "turno": "tarde",
+      "horacita": "02:45",
+      "direccion": "Av Cabildo 1000",
+      "confirmado": 0,
+      "diapreferido": "2019-08-16"
+    },
+    {
+      "tallerid": 4,
+      "tallernombre": "Taller Robert",
+      "litros": "litros?",
+      "tamanio": "Tamaño?",
+      "status": 4,
+      "turno": "tarde",
+      "horacita": "02:45",
+      "direccion": "Av Cabildo 1000",
+      "confirmado": 1,
+      "diapreferido": "2019-08-17"
+    }
+  ]
+}

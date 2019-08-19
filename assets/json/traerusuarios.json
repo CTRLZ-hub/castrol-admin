@@ -1,0 +1,76 @@
+{
+  "status": 200,
+  "status_message": "event found",
+  "data": [
+    {
+      "nombre": "Pancho",
+      "email": "pancho@gmail",
+      "rol": "1",
+      "ciudad": "México DF",
+      "activo": "1"
+    },
+    {
+      "nombre": "Pancho",
+      "email": "pancho@gmail",
+      "rol": "1",
+      "ciudad": "México DF",
+      "activo": "1"
+    },
+    {
+      "nombre": "Pancho",
+      "email": "pancho@gmail",
+      "rol": "1",
+      "ciudad": "México DF",
+      "activo": "1"
+    },
+    {
+      "nombre": "Pancho",
+      "email": "pancho@gmail",
+      "rol": "1",
+      "ciudad": "México DF",
+      "activo": "1"
+    },
+    {
+      "nombre": "Pancho",
+      "email": "pancho@gmail",
+      "rol": "1",
+      "ciudad": "México DF",
+      "activo": "1"
+    },
+    {
+      "nombre": "Pancho",
+      "email": "pancho@gmail",
+      "rol": "1",
+      "ciudad": "México DF",
+      "activo": "1"
+    },
+    {
+      "nombre": "Pancho",
+      "email": "pancho@gmail",
+      "rol": "1",
+      "ciudad": "México DF",
+      "activo": "1"
+    },
+    {
+      "nombre": "Pancho",
+      "email": "pancho@gmail",
+      "rol": "1",
+      "ciudad": "México DF",
+      "activo": "1"
+    },
+    {
+      "nombre": "Pancho",
+      "email": "pancho@gmail",
+      "rol": "1",
+      "ciudad": "México DF",
+      "activo": "1"
+    },
+    {
+      "nombre": "Pancho",
+      "email": "pancho@gmail",
+      "rol": "1",
+      "ciudad": "México DF",
+      "activo": "1"
+    }
+  ]
+}

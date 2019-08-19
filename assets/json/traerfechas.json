@@ -1,0 +1,30 @@
+{
+  "status": 200,
+  "status_message": "event found",
+  "data": [
+    {
+      "cantidadcitas": 7,
+      "fecha": "2019-07-02"
+    },
+    {
+      "cantidadcitas": 23,
+      "fecha": "2019-07-08"
+    },
+    {
+      "cantidadcitas": 3,
+      "fecha": "2019-07-11"
+    },
+    {
+      "cantidadcitas": 12,
+      "fecha": "2019-07-18"
+    },
+    {
+      "cantidadcitas": 2,
+      "fecha": "2019-07-22"
+    },
+    {
+      "cantidadcitas": 6,
+      "fecha": "2019-07-30"
+    }
+  ]
+}
