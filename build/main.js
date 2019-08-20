@@ -377,10 +377,12 @@ var DescargarTalleresPage = /** @class */ (function () {
         //   .subscribe(x => {
         //     console.log("Descargado: ", x);
         //   });
-        window.open("http://ctrlztest.com.ar/castrol/apirest/downloadexcel.php?fechadesde=" +
+        window.open("https://castrol.tenesfiebre.com/apirest/downloadexcel.php?fechadesde=" +
             this.fechaDesde +
             "&fechahasta=" +
-            this.fechaHasta + "&filtro=" + this.filtro);
+            this.fechaHasta +
+            "&filtro=" +
+            this.filtro);
     };
     DescargarTalleresPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
@@ -964,7 +966,8 @@ var GoogleMapsProvider = /** @class */ (function () {
             position: dirs,
             map: this.map,
             // animation: google.maps.Animation.DROP,
-            icon: "../../assets/imgs/" + markerColor,
+            // icon: "../../assets/imgs/" + markerColor,
+            icon: "./assets/imgs/" + markerColor,
             // Info de los talleres
             tallerid: cita.tallerid,
             visitaid: cita.visitaid,
@@ -1074,7 +1077,8 @@ var ApiAdmProvider = /** @class */ (function () {
         this.http = http;
         this.httpPost = httpPost;
         // ********** API LINK
-        this.api_url = "http://ctrlztest.com.ar/castrol/apirest/";
+        // api_url: string = "http://ctrlztest.com.ar/castrol/apirest/";
+        this.api_url = "https://castrol.tenesfiebre.com/apirest/";
         this.api_url_local = "../../assets/json/";
     }
     // ***********************************************************
